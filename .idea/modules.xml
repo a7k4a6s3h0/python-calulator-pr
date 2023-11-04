@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/building_calculator.iml" filepath="$PROJECT_DIR$/.idea/building_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../for_learning/.idea/for_learning.iml" filepath="$PROJECT_DIR$/../for_learning/.idea/for_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../intership_programs/.idea/intership_programs.iml" filepath="$PROJECT_DIR$/../intership_programs/.idea/intership_programs.iml" />
+    </modules>
+  </component>
+</project>
